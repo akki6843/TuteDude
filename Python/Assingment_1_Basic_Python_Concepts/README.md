@@ -28,3 +28,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;On executing it. you will be promoted for inputs after which the welcome string will be displayed as output..
  
  
+## Solutions can be found at this [github link](https://github.com/akki6843/TuteDude/tree/master/Python/Assingment_1_Basic_Python_Concepts)
