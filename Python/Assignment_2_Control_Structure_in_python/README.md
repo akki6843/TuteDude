@@ -22,6 +22,6 @@
 #### Solution :   
 &nbsp;&nbsp;&nbsp;&nbsp; The code is available in `Task2.py` file.  
 &nbsp;&nbsp;&nbsp;&nbsp;On executing it. code will give sum from 1 to 50. It can also be modified to collect input from a user and give sum. 
+
  
- 
-## Solutions can be found at this [github link]()
+## Solutions can be found at this [github link](https://github.com/akki6843/TuteDude/tree/master/Python/Assignment_2_Control_Structure_in_python)
