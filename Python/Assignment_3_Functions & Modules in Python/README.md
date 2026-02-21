@@ -25,3 +25,6 @@
 #### Solution :   
 &nbsp;&nbsp;&nbsp;&nbsp; The code is available in `Task2.py` file.  
 &nbsp;&nbsp;&nbsp;&nbsp; On executing it. you will be asked for a input, providing one will give 3 print statements each giving one solution as requested.
+
+
+## Solutions can be found at this [github link](https://github.com/akki6843/TuteDude/tree/master/Python/Assignment_3_Functions%20%26%20Modules%20in%20Python)
