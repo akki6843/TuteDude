@@ -23,4 +23,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp; The code is available in `Task_2.py` file.  
 &nbsp;&nbsp;&nbsp;&nbsp;On executing it. you will be promted to enter the line. then again this time it will be appended. And then in final it will showcase all the content. Also the `output.txt` will be automatically created.
 
-# Solution can be found at this github [link]()
+# Solution can be found at this github [link](https://github.com/akki6843/TuteDude/tree/master/Python/Assignment_4_Files%20Exceptions%20and%20Errors%20in%20Python)
