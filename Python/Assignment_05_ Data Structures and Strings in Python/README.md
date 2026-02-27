@@ -25,3 +25,8 @@
 #### Solution :   
 &nbsp;&nbsp;&nbsp;&nbsp; The code is available in `Task2.py` file.  
 &nbsp;&nbsp;&nbsp;&nbsp; Using the list comprehension the list id created now with help of indexing all the expected results are created.
+
+
+
+
+# Solution can be viewed at github [link](https://github.com/akki6843/TuteDude/tree/master/Python/Assignment_05_%20Data%20Structures%20and%20Strings%20in%20Python)
