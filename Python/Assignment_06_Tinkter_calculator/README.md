@@ -29,4 +29,4 @@ In the essence of code it is a very simple way that I have kept it all together:
 
 
 
-# Solution can be viewed at github [link](https://github.com/akki6843/TuteDude/tree/master/Python/Assignment_05_%20Data%20Structures%20and%20Strings%20in%20Python)
+# Solution can be viewed at github [link](https://github.com/akki6843/TuteDude/tree/master/Python/Assignment_06_Tinkter_calculator)
